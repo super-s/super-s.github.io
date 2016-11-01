@@ -1,0 +1,65 @@
+body {
+	background: #000;
+}
+.message .img-box {
+	position: absolute;
+	overflow: hidden;
+}
+@keyframes img{
+	from{transform: translateY(100%);}
+	to{transform: translateY(0);}
+}
+.message img {
+	width: 100%;
+	height: 100%;
+	transform: translateY(100%);
+	animation: img 1s 1s ease-in forwards;
+} 
+.message .img-box:nth-child(1) {
+	width: 105px;
+	height: 10px;
+	top: 180px;
+	left: 50%;
+	margin-left: -52.5px;
+}
+.message .img-box:nth-child(2) {
+	width: 277px;
+	height: 60px;
+	top: 310px;
+	left: 50%;
+	margin-left: -138.5px;
+}
+.message .img-box:nth-child(3) {
+	width: 139px;
+	height: 60px;
+	top: 440px;
+	left: 30%;
+}
+.message .img-box:nth-child(4) {
+	width: 139px;
+	height: 60px;
+	top: 440px;
+	right: 30%;
+}
+.message .img-box:nth-child(5) {
+	width: 266px;
+	height: 60px;
+	top: 570px;
+	left: 50%;
+	margin-left: -133px;
+}
+.message .img-box:nth-child(6) {
+	width: 756px;
+	height: 60px;
+	top: 700px;
+	left: 50%;
+	margin-left: -378px;
+}
+
+
+
+
+
+
+
+
