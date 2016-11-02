@@ -20,6 +20,7 @@
     text-align: center;
     font: 12px/259px '微软雅黑';
     animation: info 1.5s 1.5s linear forwards;
+    letter-spacing: 4px;
 }
 @keyframes letter {
     from{transform: translateY(100%);}
@@ -89,17 +90,3 @@
 .contact-list li:nth-child(3) .ico {
     background: url(../img/emali.png) no-repeat;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

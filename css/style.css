@@ -75,7 +75,7 @@ body {
 @keyframes welToTop{
 	from{top: 0 ;}
 	to{
-		top: -100%; 
+		top: -100%;
 		display: none;
 	}
 }
@@ -209,7 +209,7 @@ body {
     background-size: auto 340px;
 }
 .UIUE .letter:nth-child(2) .inner{
-	background: url(../img/UIUE/I.png) no-repeat 30%; 
+	background: url(../img/UIUE/I.png) no-repeat 30%;
     background-size: auto 340px;
 }
 .UIUE .letter:nth-child(3) .inner{
@@ -274,7 +274,7 @@ body {
 	background-size: auto 340px;
 }
 .ICON .letter:nth-child(4) .inner{
-	background: url(../img/ICON/O.png) no-repeat right;
+	background: url(../img/ICON/N.png) no-repeat right;
 	background-size: auto 340px;
 }
 
