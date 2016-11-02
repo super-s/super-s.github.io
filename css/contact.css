@@ -40,7 +40,7 @@
     background: url(../img/hey/e.png) no-repeat center;
 }
 .hey .letter:nth-child(5) .letter-inner {
-    background: url(../img/hey/y.png) no-repeat  right;
+    background: url(../img/hey/yyy.png) no-repeat  right;
 }
 @keyframes bottom {
     from{opacity: 0;}
